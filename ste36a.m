@@ -79,9 +79,8 @@ flows = [ 0    0    0    2    1    7    9    0    4   75    7   12   22    7    
 
     [position, p] = sort(position);
     p = p(1:dim);
-    z=dim-1;
-    sum=0;
-    for i=1:z
+        sum=0;
+    for i=1:dim
         for j=1:dim
             sum=sum+distance(i,j)*flows(p(i),p(j));
         end
