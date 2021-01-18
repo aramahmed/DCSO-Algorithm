@@ -1,10 +1,12 @@
 email: aramahmed@kissr.edu.krd
-#### this code is an implementation of a research work which is submitted to a journal and it is in the process of revision
+
+this code is an implementation of a research work which is submitted to a journal and it is in the process of revision
+
 title of the research work: **Dynamic Cat Swarm Optimization Algorithm for Backboard Wiring Problem**
 
 
 
-###### in order to reproduce the results presented in the paper, you should:
+### in order to reproduce the results presented in the paper, you should:
  1. open the "main.m" file
  2. uncomment the first "for loop" to run the benchmark functions, and then specify the function name.
  3. uncomment the second "for loop" to run the QAP dataset, and then specify the fobj.
